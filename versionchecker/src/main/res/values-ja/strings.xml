@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_check_update">"更新"</string>
+    <string name="version_check_cancel">"キャンセル"</string>
+    <string name="version_check_new_update_available">"利用可能な新しいアップデートがあります"</string>
+    <string name="version_check_message">"新しい更新プログラムは、インストールするか、そうでなければ、一部の機能が利用できない場合がありますことをお勧めし、利用可能です。"</string>
+</resources>

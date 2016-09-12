@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">VersionChecker</string>
+    <string name="version_check_update">Update</string>
+    <string name="version_check_cancel">Cancel</string>
+    <string name="version_check_new_update_available">A New Update is Available</string>
+    <string name="version_check_message">A new update is available, we recommend installing it, otherwise some features may not be available.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_check_update">Actualizar</string>
+    <string name="version_check_cancel">Cancelar</string>
+    <string name="version_check_new_update_available">Hay una nueva actualización disponible</string>
+    <string name="version_check_message">Una nueva actualización está disponible, es recomendable instalarla o de lo contrario algunas características pueden no estar disponibles.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_check_update">Обновить</string>
+    <string name="version_check_cancel">Отмена</string>
+    <string name="version_check_new_update_available">Новое обновление доступно</string>
+    <string name="version_check_message">Новое обновление доступно, мы рекомендуем устанавливать его, в противном случае некоторые функции могут быть недоступны.</string>
+</resources>

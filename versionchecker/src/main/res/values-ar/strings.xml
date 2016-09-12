@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version_check_update">"تحديث"</string>
+    <string name="version_check_cancel">"إلغاء"</string>
+    <string name="version_check_new_update_available">"هناك تحديث جديد متاح"</string>
+    <string name="version_check_message">"هو عملية تحديث جديد المتاحة، فإنه من المستحسن لتثبيت أو بعض الميزات قد لا تكون متاحة."</string>
+</resources>
