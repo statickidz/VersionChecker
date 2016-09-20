@@ -1,4 +1,4 @@
-Android VersionChecker [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Rate--Me-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1032)
+Android Version Checker [ ![Download](https://api.bintray.com/packages/statickidz/maven/VersionChecker/images/download.svg) ](https://bintray.com/statickidz/maven/VersionChecker/_latestVersion)
 =======
 
 VersionChecker is an Android library to check the version of the application with Google Play Store and force update.
